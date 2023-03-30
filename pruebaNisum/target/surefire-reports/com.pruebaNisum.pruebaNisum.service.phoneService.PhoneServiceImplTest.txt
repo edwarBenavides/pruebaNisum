@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.pruebaNisum.pruebaNisum.service.phoneService.PhoneServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.106 s <<< FAILURE! - in com.pruebaNisum.pruebaNisum.service.phoneService.PhoneServiceImplTest
+testUpdateUserIdInPhone  Time elapsed: 0.106 s  <<< ERROR!
+java.lang.NullPointerException
+	at com.pruebaNisum.pruebaNisum.service.phoneService.PhoneServiceImplTest.testUpdateUserIdInPhone(PhoneServiceImplTest.java:60)
+

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.pruebaNisum.pruebaNisum.PruebaNisumApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.91 s - in com.pruebaNisum.pruebaNisum.PruebaNisumApplicationTests
